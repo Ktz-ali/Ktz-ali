@@ -10,11 +10,11 @@
 ### 🌐 我的平台  
 [![个人主页](https://img.shields.io/badge/个人主页-ktzali.cn-2CA5E0?logo=homeassistant&logoColor=white)](http://www.ktzali.cn)
 [![技术博客](https://img.shields.io/badge/技术博客-94ali.top-FF5722?logo=blogger&logoColor=white)](http://www.94ali.top)
-[![哔哩哔哩](https://img.shields.io/badge/哔哩哔哩-消失的阿力-00A1D6?logo=bilibili&logoColor=white)](https://b23.tv/7QqLgsC)
-[![闲鱼店铺](https://img.shields.io/badge/闲鱼店铺-阿力-FF9900?logo=alibabadotcom&logoColor=white)](https://m.tb.cn/h.hLTEti9?tk=qYpN4TwJPn0)
-[![互站店铺](https://img.shields.io/badge/互站店铺-遥辉程序-FF0036?logo=store&logoColor=white)](https://www.huzhan.com/ishop53338)
-[![Gitee](https://img.shields.io/badge/Gitee-Ktz-ali-C71D23?logo=gitee&logoColor=white)](https://gitee.com/Ktz-ali)
-[![思否社区](https://img.shields.io/badge/思否社区-Ktz_ali-39B95C?logo=segmentfault&logoColor=white)](https://segmentfault.com/u/ktz_ali)
+[![哔哩哔哩](https://img.shields.io/badge/B站-消失的阿力-00A1D6?logo=bilibili&logoColor=white)](https://b23.tv/7QqLgsC)
+[![闲鱼店铺](https://img.shields.io/badge/闲鱼-阿力-FF9900?logo=alibabadotcom&logoColor=white)](https://m.tb.cn/h.hLTEti9?tk=qYpN4TwJPn0)
+[![互站店铺](https://img.shields.io/badge/互站-遥辉程序-FF0036?logo=store&logoColor=white)](https://www.huzhan.com/ishop53338)
+[![Gitee](https://img.shields.io/badge/Gitee-Ktz--ali-C71D23?logo=gitee&logoColor=white)](https://gitee.com/Ktz-ali)
+[![思否社区](https://img.shields.io/badge/思否-Ktz_ali-39B95C?logo=segmentfault&logoColor=white)](https://segmentfault.com/u/ktz_ali)
 
 ---
 
