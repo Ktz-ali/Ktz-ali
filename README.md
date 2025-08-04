@@ -100,7 +100,7 @@
 
 ### 📈 项目数据统计
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ktz-ali&locale=cn&theme=github_dark" alt="GitHub活动图表">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?hide_border=true&locale=cn&username=Ktz-ali&theme=github_dark" alt="GitHub活动图表">
 </div>
 
 ---
