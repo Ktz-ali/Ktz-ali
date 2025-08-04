@@ -28,14 +28,14 @@
         <td align="center">
           <picture>
             <a href="https://github.com/Ktz-ali/AliGit">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=Ktz-ali&repo=AliGit&show_owner=true">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ktz-ali&repo=AliGit&theme=buefy">
             </a>
           </picture>
         </td>
         <td align="center">
           <picture>
             <a href="https://github.com/Ktz-ali/AliSpace">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=Ktz-ali&repo=AliSpace&show_owner=true">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ktz-ali&repo=AliSpace&theme=buefy">
             </a>
           </picture>
         </td>
