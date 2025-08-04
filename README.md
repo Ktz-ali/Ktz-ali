@@ -51,7 +51,7 @@
 
 ---
 
-### 🛠️ 技术栈
+### 🛠️ 技能工具
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,bash,py,php,html,css,javascript,nodejs,mysql,redis,git,github,linux,docker&theme=dark&perline=7" />
 </p>
@@ -69,7 +69,4 @@
 
 ---
 
-© 2025 遥辉网络 | [MIT License](LICENSE)  
-<a href="mailto:contact@ktzali.cn">
-  <img align="right" src="https://img.shields.io/badge/联系我-contact@ktzali.cn-important?logo=protonmail">
-</a>
+© 2025 遥辉网络&消失の阿力 | [MIT License](LICENSE)<a href="mailto:1728031575@qq.com"><img align="right" src="https://img.shields.io/badge/联系我-important?logo=protonmail"></a>
