@@ -1,7 +1,7 @@
 ### 👋 你好，我是阿力 & 遥辉网络创始人<a href="https://github.com/Ktz-ali/"><img align="right" src="https://komarev.com/ghpvc/?username=Ktz-ali&label=访问量&color=0e75b6&style=for-the-badge"></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1D9BF0&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+移动安全攻防专家;%F0%9F%A7%A9+安卓逆向工程师;%F0%9F%9B%A0%EF%B8%8F+全栈架构师" alt="专业标签">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=1D9BF0&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+移动安全攻防专家;%F0%9F%A7%A9+安卓逆向工程师;%F0%9F%9B%A0%EF%B8%8F+全栈架构师" alt="专业标签">
 </p>
 
 > **🌟 座右铭**: 知足上进，不负野心  
@@ -56,28 +56,25 @@
 
 ---
 
-### 💎 专业能力矩阵
+### 💎 专业能力
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3 align="center">🖥️ 前后端开发</h3>
-      <div align="center">
-        <p>🔹 技术栈: PHP/Java/Python/HTML5/CSS3/JavaScript/Vue/Ajax/MySQL</p>
-        <p>🔹 设计风格: 拟态化 | 毛玻璃 | 科技感 | 卡片布局 | 特效实现</p>
-        <p>🔹 架构能力: CI/CD流水线 | Linux系统管理 | Nginx优化 | Shell脚本</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🤖 脚本开发</h3>
-      <div align="center">
-        <p>🔸 图形化操作界面设计 | 模块化函数封装</p>
-        <p>🔸 区域化分类管理 | 菜单驱动式交互</p>
-        <p>🔸 自动化任务处理 | 跨平台兼容方案</p>
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+#### 🖥️ 前后端开发
+<div>
+  <p>🔹 技术栈: PHP/Java/Python/HTML5/CSS3/JavaScript/Vue/Ajax/MySQL</p>
+  <p>🔹 设计风格: 拟态化 | 毛玻璃 | 科技感 | 卡片布局 | 特效实现</p>
+  <p>🔹 架构能力: CI/CD流水线 | Linux系统管理 | Nginx优化 | Shell脚本</p>
+</div>
+
+#### 🤖 脚本开发
+<div>
+  <p>🔸 图形化操作界面设计 | 模块化函数封装</p>
+  <p>🔸 区域化分类管理 | 菜单驱动式交互</p>
+  <p>🔸 自动化任务处理 | 跨平台兼容方案</p>
+</div>
+
+</div>
 
 ---
 
@@ -113,6 +110,13 @@
   </a>
   <a href="https://github.com/Ktz-ali">
     <img src="https://img.shields.io/github/last-commit/Ktz-ali/Ktz-ali?label=最后更新&logo=github&style=for-the-badge" alt="最后更新">
+  </a>
+  <br>
+  <a href="https://github.com/Ktz-ali">
+    <img src="https://img.shields.io/github/commit-activity/m/Ktz-ali/Ktz-ali?label=月均提交&logo=github&style=flat-square" alt="提交频率">
+  </a>
+  <a href="https://github.com/Ktz-ali">
+    <img src="https://img.shields.io/github/repo-size/Ktz-ali/Ktz-ali?label=仓库大小&logo=github&style=flat-square" alt="仓库大小">
   </a>
 </p>
 
