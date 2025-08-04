@@ -21,12 +21,12 @@
     <tr>
         <td align="center">
           <picture>
-            <img src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&username=Ktz-ali&show_icons=true&include_all_commits=true">
+            <img src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&username=Ktz-ali&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true">
           </picture>
         </td>
         <td align="center">
           <picture>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&locale=cn&username=Ktz-ali&layout=compact&langs_count=100">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&locale=cn&username=Ktz-ali&layout=compact&theme=buefy&hide_border=true">
           </picture>
         </td>
     </tr>
