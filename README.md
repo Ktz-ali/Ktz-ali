@@ -19,6 +19,14 @@
 ### 📊 技术足迹
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <!-- 左侧：统计信息 -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Ktz-ali&show_icons=true&theme=default" />
+    </td>
+    <td width="50%" valign="top">
+      <!-- 右侧：语言统计 -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ktz-ali&layout=compact&theme=<table>
+  <tr>
     <td width="60%" valign="top">
       <!-- 左侧：统计信息 -->
       <img src="https://github-readme-stats.vercel.app/api?username=Ktz-ali&show_icons=true&theme=radical" />
@@ -26,6 +34,9 @@
     <td width="40%" valign="top">
       <!-- 右侧：语言统计 -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ktz-ali&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>" />
     </td>
   </tr>
 </table>
