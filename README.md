@@ -49,7 +49,7 @@
 
 <p align="center">
     <picture>
-        <img src="https://skillicons.dev/icons?i=java,shell,py,php,html,css,javascript,mysql&theme=light" />
+        <img src="https://skillicons.dev/icons?i=java,sh,py,php,html,css,javascript,mysql&theme=light" />
     </picture>
 </p>
 
