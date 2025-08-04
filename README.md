@@ -17,37 +17,33 @@
 ---
 
 ### 📊 技术足迹
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <!-- 左侧：统计信息 -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Ktz-ali&show_icons=true&theme=default" />
-    </td>
-    <td width="50%" valign="top">
-      <!-- 右侧：语言统计 -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ktz-ali&layout=compact&theme=default<table>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&username=Ktz-ali&show_icons=true&include_all_commits=true&theme=radical&rank_icon=github" alt="GitHub状态">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&locale=cn&username=Ktz-ali&layout=compact&langs_count=12&theme=radical" alt="常用语言">
+</div>
 
 ---
 
 ### 🚀 精选项目
-<### 🚀 我的项目
-<div align="center">
-  <a href="https://github.com/Ktz-ali/AliGit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ktz-ali&repo=AliGit&theme=merko" />
-  </a>
-  <a href="https://github.com/Ktz-ali/AliSpace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ktz-ali&repo=AliSpace&theme=merko" />
-  </a>
-  <a href="https://github.com/Ktz-ali/AliMlu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ktz-ali&repo=Repo3&theme=merko" />
-  </a>
-  <a href="https://github.com/Ktz-ali/GithubToolKit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ktz-ali&repo=Repo4&theme=merko" />
-  </a>
-</div>
+<table align="center">
+    <tr>
+        <td align="center">
+          <picture>
+            <a href="https://github.com/Ktz-ali/AliGit">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=Ktz-ali&repo=AliGit&show_owner=true">
+            </a>
+          </picture>
+        </td>
+        <td align="center">
+          <picture>
+            <a href="https://github.com/Ktz-ali/AliSpace">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=Ktz-ali&repo=AliSpace&show_owner=true">
+            </a>
+          </picture>
+        </td>
+    </tr>
+</table>
+
 ---
 
 ### 🛠️ 常用语言工具
