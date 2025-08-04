@@ -80,7 +80,24 @@
 > 个人主页访问量：![Visitor Count](https://komarev.com/ghpvc/?username=Ktz-ali&color=blue)
 
 
+## 联系方式与平台
 
+### 连接方式
+| 平台       | 链接                          |
+|------------|-------------------------------|
+| 电子邮箱   | xywlxyh@gmail.com             |
+| Gitee      | https://gitee.com/Ktz-ali     |
+| 个人主页   | https://www.ktzali.cn         |
+| 技术博客   | https://www.94ali.top         |
+
+### 开源贡献
+欢迎通过以下方式参与项目贡献：
+1. **问题报告**：在GitHub Issues提交问题或建议
+2. **功能开发**：Fork仓库并提交Pull Request
+3. **文档改进**：帮助完善文档和示例
+
+## 使用条款
+© 2025 遥辉网络&消失の阿力 | [MIT License](LICENSE)
 
 <table align="center">
     <tr>
@@ -125,23 +142,3 @@
         <img src="https://skillicons.dev/icons?i=java,kotlin,py,lua,androidstudio,idea,pycharm,vscode&theme=light" />
     </picture>
 </p>
-
-
-## 联系方式与平台
-
-### 连接方式
-| 平台       | 链接                          |
-|------------|-------------------------------|
-| 电子邮箱   | xywlxyh@gmail.com             |
-| Gitee      | https://gitee.com/Ktz-ali     |
-| 个人主页   | https://www.ktzali.cn         |
-| 技术博客   | https://www.94ali.top         |
-
-### 开源贡献
-欢迎通过以下方式参与项目贡献：
-1. **问题报告**：在GitHub Issues提交问题或建议
-2. **功能开发**：Fork仓库并提交Pull Request
-3. **文档改进**：帮助完善文档和示例
-
-## 使用条款
-© 2025 遥辉网络&消失の阿力 | [MIT License](LICENSE)
