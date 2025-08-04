@@ -70,6 +70,7 @@
 ---
 
 ### 联系方式
-[![QQ](https://img.shields.io/badge/QQ--ali-red)](https://qm.qq.com/q/DBDjD6OcIS)
+[![QQ](https://img.shields.io/badge/联系QQ-1728031575-red)](https://qm.qq.com/q/DBDjD6OcIS)
+[![微信](https://img.shields.io/badge/联系微信-Ali01021123-red)](#)
 
 © 2025 遥辉网络&消失の阿力 | [MIT License](LICENSE)
