@@ -49,19 +49,9 @@
 
 <p align="center">
     <picture>
-        <img src="https://skillicons.dev/icons?i=java,shell,py,php,html5,css3,JavaScript,mysql&theme=light" />
+        <img src="https://skillicons.dev/icons?i=java,shell,py,php,html,css,javascript,mysql&theme=light" />
     </picture>
 </p>
-
-## 联系方式与平台
-
-### 连接方式
-| 平台       | 链接                          |
-|------------|-------------------------------|
-| 电子邮箱   | xywlxyh@gmail.com             |
-| Gitee      | https://gitee.com/Ktz-ali     |
-| 个人主页   | https://www.ktzali.cn         |
-| 技术博客   | https://www.94ali.top         |
 
 ### 开源贡献
 欢迎通过以下方式参与项目贡献：
