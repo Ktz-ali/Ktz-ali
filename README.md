@@ -11,6 +11,50 @@
 [![技术博客](https://img.shields.io/badge/技术博客-94ali.top-green)](http://www.94ali.top)
 [![Gitee](https://img.shields.io/badge/Gitee-Ktz--ali-red)](https://gitee.com/Ktz-ali)
 
+<table align="center">
+    <tr>
+        <td align="center">
+          <picture>
+            <img src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&username=Ktz-ali&show_icons=true&include_all_commits=true">
+          </picture>
+        </td>
+        <td align="center">
+          <picture>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&locale=cn&username=Ktz-ali&layout=compact&langs_count=12">
+          </picture>
+        </td>
+    </tr>
+</table>
+
+### 推荐项目
+
+<table align="center">
+    <tr>
+        <td align="center">
+          <picture>
+            <a href="https://github.com/Ktz-ali/HdTool">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=Ktz-ali&repo=HdTool&show_owner=true">
+            </a>
+          </picture>
+        </td>
+        <td align="center">
+          <picture>
+            <a href="https://github.com/Ktz-ali/HookGG">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=Ktz-ali&repo=HookGG&show_owner=true">
+            </a>
+          </picture>
+        </td>
+    </tr>
+</table>
+
+### 技能工具
+
+<p align="center">
+    <picture>
+        <img src="https://skillicons.dev/icons?i=java,kotlin,py,lua,androidstudio,idea,pycharm,vscode&theme=light" />
+    </picture>
+</p>
+
 ### 🔝 我的项目
 #### [遥辉GitHub工具箱Pro](https://github.com/Ktz-ali/GithubToolKit)
 > 一款通过Github API实现的多功能仓库同步管理工具
@@ -98,47 +142,3 @@
 
 ## 使用条款
 © 2025 遥辉网络&消失の阿力 | [MIT License](LICENSE)
-
-<table align="center">
-    <tr>
-        <td align="center">
-          <picture>
-            <img src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&username=Ktz-ali&show_icons=true&include_all_commits=true">
-          </picture>
-        </td>
-        <td align="center">
-          <picture>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&locale=cn&username=Ktz-ali&layout=compact&langs_count=12">
-          </picture>
-        </td>
-    </tr>
-</table>
-
-### 推荐项目
-
-<table align="center">
-    <tr>
-        <td align="center">
-          <picture>
-            <a href="https://github.com/Ktz-ali/HdTool">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=Ktz-ali&repo=HdTool&show_owner=true">
-            </a>
-          </picture>
-        </td>
-        <td align="center">
-          <picture>
-            <a href="https://github.com/Ktz-ali/HookGG">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=Ktz-ali&repo=HookGG&show_owner=true">
-            </a>
-          </picture>
-        </td>
-    </tr>
-</table>
-
-### 技能工具
-
-<p align="center">
-    <picture>
-        <img src="https://skillicons.dev/icons?i=java,kotlin,py,lua,androidstudio,idea,pycharm,vscode&theme=light" />
-    </picture>
-</p>
