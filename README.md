@@ -33,25 +33,21 @@
 ---
 
 ### 🚀 精选项目
-<table align="center">
-    <tr>
-        <td align="center">
-          <picture>
-            <a href="https://github.com/Ktz-ali/AliGit">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=Ktz-ali&repo=AliGit&show_owner=true">
-            </a>
-          </picture>
-        </td>
-        <td align="center">
-          <picture>
-            <a href="https://github.com/Ktz-ali/AliSpace">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=Ktz-ali&repo=AliSpace&show_owner=true">
-            </a>
-          </picture>
-        </td>
-    </tr>
-</table>
-
+<### 🚀 我的项目
+<div align="center">
+  <a href="https://github.com/Ktz-ali/AliGit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ktz-ali&repo=AliGit&theme=merko" />
+  </a>
+  <a href="https://github.com/Ktz-ali/AliSpace">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ktz-ali&repo=AliSpace&theme=merko" />
+  </a>
+  <a href="https://github.com/Ktz-ali/AliMlu">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ktz-ali&repo=Repo3&theme=merko" />
+  </a>
+  <a href="https://github.com/Ktz-ali/GithubToolKit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ktz-ali&repo=Repo4&theme=merko" />
+  </a>
+</div>
 ---
 
 ### 🛠️ 常用语言工具
