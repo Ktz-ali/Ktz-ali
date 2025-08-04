@@ -30,7 +30,6 @@
           </picture>
         </td>
     </tr>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&locale=cn&username=Ktz-ali&layout=compact&langs_count=12&theme=radical" alt="常用语言">
 </div>
 
 ---
