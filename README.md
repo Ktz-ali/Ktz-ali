@@ -1,4 +1,5 @@
-### 👋 你好，我是阿力 & 遥辉网络创始人<a href="https://github.com/Ktz-ali/"><img align="right" src="https://komarev.com/ghpvc/?username=Ktz-ali&label=访问量&color=blue&style=flat"></a>
+### 👋 你好，我是阿力 & 遥辉网络创始人<a href="https://github.com/Ktz-ali/"><img align="right" src="https://komarev.com/ghpvc/?username=Ktz-ali&label=Views&color=blue&style=flat"></a>
+
 <p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=1D9BF0&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+移动安全攻防专家;%F0%9F%A7%A9+安卓逆向工程师;%F0%9F%9B%A0%EF%B8%8F+全栈架构师" alt="专业标签"></p>
 专注移动安全攻防&安卓逆向工程  
 每样都懂一点点的全栈架构工程师  
@@ -19,20 +20,10 @@
 ---
 
 ### 📊 技术足迹
-<table align="center">
-    <tr>
-        <td align="center">
-          <picture>
-            <img src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&username=Ktz-ali&show_icons=true&include_all_commits=true">
-          </picture>
-        </td>
-        <td align="center">
-          <picture>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&locale=cn&username=Ktz-ali&layout=compact&langs_count=12">
-          </picture>
-        </td>
-    </tr>
-</table>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&username=Ktz-ali&show_icons=true&include_all_commits=true&theme=radical&rank_icon=github" alt="GitHub状态">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&locale=cn&username=Ktz-ali&layout=compact&langs_count=8&theme=radical" alt="常用语言">
+</div>
 
 ---
 
