@@ -10,7 +10,6 @@
 [![个人主页](https://img.shields.io/badge/个人主页-ktzali.cn-2CA5E0?logo=homeassistant&logoColor=white)](http://www.ktzali.cn)
 [![技术博客](https://img.shields.io/badge/技术博客-94ali.top-FF5722?logo=blogger&logoColor=white)](http://www.94ali.top)
 [![Gitee](https://img.shields.io/badge/Gitee-Ktz--ali-C71D23?logo=gitee&logoColor=white)](https://gitee.com/Ktz-ali)
-[![思否社区](https://img.shields.io/badge/思否社区-ktz_ali-39B95C?logo=segmentfault&logoColor=white)](https://segmentfault.com/u/ktz_ali)
 [![哔哩哔哩](https://img.shields.io/badge/哔哩哔哩-消失的阿力-00A1D6?logo=bilibili&logoColor=white)](https://b23.tv/7QqLgsC)
 [![闲鱼店铺](https://img.shields.io/badge/闲鱼店铺-阿力-FF9900?logo=xing&logoColor=white)](https://m.tb.cn/h.hLTEti9?tk=qYpN4TwJPn0)
 [![互站店铺](https://img.shields.io/badge/互站店铺-遥辉程序-FF0036?logo=shopify&logoColor=white)](https://www.huzhan.com/ishop53338)
@@ -19,8 +18,8 @@
 
 ### 📊 技术足迹
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&username=Ktz-ali&show_icons=true&include_all_commits=true&theme=radical&rank_icon=github" alt="GitHub状态">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&locale=cn&username=Ktz-ali&layout=compact&langs_count=8&theme=radical" alt="常用语言">
+  <img height="1500em" src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&username=Ktz-ali&show_icons=true&include_all_commits=true&theme=radical&rank_icon=github" alt="GitHub状态">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&locale=cn&username=Ktz-ali&layout=compact&langs_count=8&theme=radical" alt="常用语言">
 </div>
 
 ---
