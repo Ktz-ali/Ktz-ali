@@ -1,8 +1,6 @@
 ### 👋 你好，我是阿力 & 遥辉网络创始人<a href="https://github.com/Ktz-ali/"><img align="right" src="https://komarev.com/ghpvc/?username=Ktz-ali&label=Views&color=blue&style=flat"></a>
 
-<p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=1D9BF0&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+移动安全攻防专家;%F0%9F%A7%A9+安卓逆向工程师;%F0%9F%9B%A0%EF%B8%8F+全栈架构师" alt="专业标签"></p>
-专注移动安全攻防&安卓逆向工程  
-每样都懂一点点的全栈架构工程师  
+<p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=1D9BF0&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+安卓逆向工程;%F0%9F%A7%A9+专注移动安全攻防;%F0%9F%9B%A0%EF%B8%8F+每样都懂一点点的全栈架构工程师" alt="专业标签"></p>  
 
 > **座右铭**: 知足上进，不负野心  
 
@@ -92,23 +90,9 @@
 ---
 
 ### 📈 项目数据统计
-<p align="center">
-  <!-- 主页统计 -->
-  <a href="http://www.ktzali.cn">
-    <img src="https://img.shields.io/badge/dynamic/json?label=主页访问&query=value&url=https://api.countapi.xyz/hit/ktzali.cn/total&color=blue&logo=googleanalytics" alt="主页访问量">
-  </a>
-  
-  <!-- GitHub 统计 -->
-  <a href="https://github.com/Ktz-ali">
-    <img src="https://img.shields.io/github/followers/Ktz-ali?label=GitHub粉丝&logo=github&color=181717" alt="GitHub粉丝">
-  </a>
-  <a href="https://github.com/Ktz-ali?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Ktz-ali?label=项目收藏&logo=github" alt="项目收藏">
-  </a>
-  <a href="https://github.com/Ktz-ali">
-    <img src="https://img.shields.io/github/last-commit/Ktz-ali/Ktz-ali?label=最后更新&logo=github" alt="最后更新">
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ktz-ali&theme=github_dark" alt="GitHub活动图表">
+</div>
 
 ---
 
