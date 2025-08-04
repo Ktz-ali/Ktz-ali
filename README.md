@@ -1,4 +1,7 @@
-### 👋 你好，我是阿力<a href="https://github.com/Ktz-ali/"><img align="right" src="https://komarev.com/ghpvc/?username=Ktz-ali&label=Views&color=blue&style=flat"></a>
+### 👋 你好，我是阿力 & 遥辉网络创始人<a href="https://github.com/Ktz-ali/"><img align="right" src="https://komarev.com/ghpvc/?username=Ktz-ali&label=Views&color=blue&style=flat"></a>
+
+专注移动安全攻防&安卓逆向工程
+每样都懂一点点的全栈架构工程师
 
 > **座右铭**: 知足上进，不负野心  
 
@@ -7,7 +10,15 @@
 ### 🌐 我的平台  
 [![个人主页](https://img.shields.io/badge/个人主页-ktzali.cn-blue)](http://www.ktzali.cn)
 [![技术博客](https://img.shields.io/badge/技术博客-94ali.top-green)](http://www.94ali.top)
+[![哔哩哔哩](https://img.shields.io/badge/哔哩哔哩--ali-red)](https://b23.tv/7QqLgsC)
+[![闲鱼店铺](https://img.shields.io/badge/闲鱼店铺--ali-red)](https://m.tb.cn/h.hLTEti9?tk=qYpN4TwJPn0)
+[![互站店铺](https://img.shields.io/badge/互站店铺--ali-red)](https://www.huzhan.com/ishop53338)
 [![Gitee](https://img.shields.io/badge/Gitee-Ktz--ali-red)](https://gitee.com/Ktz-ali)
+[![思否社区](https://img.shields.io/badge/Gitee-Ktz--ali-red)](https://segmentfault.com/u/ktz_ali)
+
+
+
+
 
 ---
 
@@ -51,24 +62,18 @@
 
 ---
 
-### 🛠️ 技能工具
+### 🛠️ 专业技能
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,bash,py,php,html,css,javascript,nodejs,mysql,redis,git,github,linux,docker&theme=dark&perline=7" />
 </p>
 
----
+### 证书认证
 
-### 🤝 参与贡献
-欢迎通过以下方式参与项目开发：
-1. **问题反馈** - 在 [Issues](https://github.com/Ktz-ali/AliGit/issues) 报告BUG或提出建议
-2. **代码贡献** - Fork仓库并提交 Pull Request
-3. **文档优化** - 改进文档或添加使用示例
-4. **项目推广** - 分享项目到技术社区
-
-> 首次贡献？请查阅 [CONTRIBUTING指南](https://github.com/Ktz-ali/.github/blob/main/CONTRIBUTING.md)
+### 访问统计
 
 ---
+
+### 联系方式
+[![QQ](https://img.shields.io/badge/QQ--ali-red)](https://qm.qq.com/q/DBDjD6OcIS)
 
 © 2025 遥辉网络&消失の阿力 | [MIT License](LICENSE)
-<a href="mailto:1728031575@qq.com">
-<img align="right" src="https://img.shields.io/badge/联系我-1728031575@qq.com-important?logo=protonmail"></a>
