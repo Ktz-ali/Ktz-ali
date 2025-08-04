@@ -1,15 +1,15 @@
-### 👋 你好，我是阿力 & 遥辉网络创始人<a href="https://github.com/Ktz-ali/"><img align="right" src="https://komarev.com/ghpvc/?username=Ktz-ali&label=访问量&color=blue&style=flat-square"></a>
+### 👋 你好，我是阿力 & 遥辉网络创始人<a href="https://github.com/Ktz-ali/"><img align="right" src="https://komarev.com/ghpvc/?username=Ktz-ali&label=Views&color=blue&style=flat"></a>
 
-专注移动安全攻防&安卓逆向工程  
-每样都懂一点点的全栈架构工程师  
+专注移动安全攻防&安卓逆向工程
+每样都懂一点点的全栈架构工程师
 
 > **座右铭**: 知足上进，不负野心  
 
 ---
 
 ### 🌐 我的平台  
-[![个人主页](https://img.shields.io/badge/个人主页-ktzali.cn-2CA5E0?logo=home&logoColor=white)](http://www.ktzali.cn)
-[![技术博客](https://img.shields.io/badge/技术博客-94ali.top-FF5722?logo=ghost&logoColor=white)](http://www.94ali.top)
+[![个人主页](https://img.shields.io/badge/个人主页-ktzali.cn-2CA5E0?logo=homeassistant&logoColor=white)](http://www.ktzali.cn)
+[![技术博客](https://img.shields.io/badge/技术博客-94ali.top-FF5722?logo=blogger&logoColor=white)](http://www.94ali.top)
 [![Gitee](https://img.shields.io/badge/Gitee-Ktz--ali-C71D23?logo=gitee&logoColor=white)](https://gitee.com/Ktz-ali)
 [![思否社区](https://img.shields.io/badge/思否社区-ktz_ali-39B95C?logo=segmentfault&logoColor=white)](https://segmentfault.com/u/ktz_ali)
 [![哔哩哔哩](https://img.shields.io/badge/哔哩哔哩-消失的阿力-00A1D6?logo=bilibili&logoColor=white)](https://b23.tv/7QqLgsC)
@@ -56,10 +56,8 @@
 
 ### 🛠️ 专业技能
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,bash,py,php,html,css,javascript,nodejs,mysql,redis,git,github,linux,docker,android,flutter,aws,azure&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,bash,py,php,html,css,javascript,nodejs,mysql,redis,git,github,linux,docker&theme=dark&perline=7" />
 </p>
-
----
 
 ### 📜 证书认证
 <p align="center">
