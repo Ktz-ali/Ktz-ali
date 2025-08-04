@@ -17,8 +17,8 @@
 ---
 
 ### 📊 技术足迹
-<div align="center">
-      <tr>
+<table align="center">
+    <tr>
         <td align="center">
           <picture>
             <img src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&username=Ktz-ali&show_icons=true&include_all_commits=true">
@@ -26,11 +26,11 @@
         </td>
         <td align="center">
           <picture>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&locale=cn&username=Ktz-ali&layout=compact&langs_count=12">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&locale=cn&username=Ktz-ali&layout=compact&langs_count=12&theme=radical">
           </picture>
         </td>
     </tr>
-</div>
+</table>
 
 ---
 
