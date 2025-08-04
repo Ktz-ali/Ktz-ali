@@ -42,7 +42,7 @@
         <td align="center">
           <picture>
             <a href="https://github.com/Ktz-ali/AliGit">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=Ktz-ali&repo=HdTool&show_owner=true">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=Ktz-ali&repo=AliGit&show_owner=true">
             </a>
           </picture>
         </td>
@@ -77,7 +77,7 @@
     <img src="https://img.shields.io/badge/AWS解决方案架构师-Associate-FF9900?logo=amazonaws" alt="AWS解决方案架构师">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/腾讯云架构师-TCA-3C78D8?logo=tencent" alt="腾讯云架构师">
+    <img src="https://img.shields.io/badge/Web全栈工程师-TCA-3C78D8?logo=tencent" alt="Web全栈工程师">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/阿里云安全专家-ACE-FF6A00?logo=alibabacloud" alt="阿里云安全专家">
