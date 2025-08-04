@@ -26,7 +26,7 @@
         </td>
         <td align="center">
           <picture>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&locale=cn&username=Ktz-ali&layout=compact&langs_count=12">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&locale=cn&username=Ktz-ali&layout=compact&langs_count=100">
           </picture>
         </td>
     </tr>
