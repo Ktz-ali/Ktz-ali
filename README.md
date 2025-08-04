@@ -1,5 +1,5 @@
 ### 👋 你好，我是阿力<a href="https://github.com/Ktz-ali/"><img align="right" src="https://komarev.com/ghpvc/?username=Ktz-ali&label=Views&color=blue&style=flat"></a>
-- 全栈架构工程师 & 遥辉网络创始人
+全栈架构工程师 & 遥辉网络创始人
 > **座右铭**: 知足上进，不负野心  
 
 ---
@@ -69,5 +69,6 @@
 
 ---
 
-© 2025 遥辉网络&消失の阿力 | <a href="mailto:1728031575@qq.com">
+© 2025 遥辉网络&消失の阿力 | [MIT License](LICENSE)
+<a href="mailto:1728031575@qq.com">
 <img align="right" src="https://img.shields.io/badge/联系我-1728031575@qq.com-important?logo=protonmail"></a>
