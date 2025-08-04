@@ -1,27 +1,15 @@
-### 👋 你好，我是阿力
-> 全栈架构工程师 & 遥辉网络创始人
+### 👋 你好，我是阿力<a href="https://github.com/Ktz-ali/"><img align="right" src="https://komarev.com/ghpvc/?username=Ktz-ali&label=Views&color=blue&style=flat"></a>
+- 全栈架构工程师 & 遥辉网络创始人
 > **座右铭**: 知足上进，不负野心  
-<a href="https://github.com/Ktz-ali/"><img align="right" src="https://komarev.com/ghpvc/?username=Ktz-ali&label=Views&color=blue&style=flat"></a>
 
 ---
 
 ### 🌐 我的平台  
-<div align="center">
-  <a href="http://www.ktzali.cn">
-    <img src="https://img.shields.io/badge/个人主页-ktzali.cn-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white">
-  </a>
-  <a href="http://www.94ali.top">
-    <img src="https://img.shields.io/badge/技术博客-94ali.top-4CAF50?style=for-the-badge&logo=hexo&logoColor=white">
-  </a>
-  <a href="https://gitee.com/Ktz-ali">
-    <img src="https://img.shields.io/badge/Gitee-Ktz--ali-C71D23?style=for-the-badge&logo=gitee&logoColor=white">
-  </a>
-</div>
-
-### 我的平台  
 [![个人主页](https://img.shields.io/badge/个人主页-ktzali.cn-blue)](http://www.ktzali.cn)
 [![技术博客](https://img.shields.io/badge/技术博客-94ali.top-green)](http://www.94ali.top)
 [![Gitee](https://img.shields.io/badge/Gitee-Ktz--ali-red)](https://gitee.com/Ktz-ali)
+
+---
 
 ### 📊 技术足迹
 <table align="center">
@@ -65,7 +53,7 @@
 
 ### 🛠️ 技术栈
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,shell,py,php,html,css,javascript,nodejs,mysql,redis,git,github,linux,docker&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,bash,py,php,html,css,javascript,nodejs,mysql,redis,git,github,linux,docker&theme=dark&perline=7" />
 </p>
 
 ---
