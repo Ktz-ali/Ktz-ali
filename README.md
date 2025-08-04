@@ -17,10 +17,18 @@
 ---
 
 ### 📊 技术足迹
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&username=Ktz-ali&show_icons=true&include_all_commits=true&theme=radical&rank_icon=github" alt="GitHub状态">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&locale=cn&username=Ktz-ali&layout=compact&langs_count=12&theme=default" alt="常用语言">
-</div>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <!-- 左侧：统计信息 -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Ktz-ali&show_icons=true&theme=radical" />
+    </td>
+    <td width="40%" valign="top">
+      <!-- 右侧：语言统计 -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ktz-ali&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 ---
 
