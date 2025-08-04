@@ -1,6 +1,7 @@
-### 👋 你好，我是阿力 | 全栈架构工程师 & 遥辉网络创始人
+### 👋 你好，我是阿力
+> 全栈架构工程师 & 遥辉网络创始人
 > **座右铭**: 知足上进，不负野心  
-<a href="https://github.com/Ktz-ali/"><img align="right" src="https://komarev.com/ghpvc/?username=Ktz-ali&label=Profile Views&color=blue&style=flat"></a>
+<a href="https://github.com/Ktz-ali/"><img align="right" src="https://komarev.com/ghpvc/?username=Ktz-ali&label=Views&color=blue&style=flat"></a>
 
 ---
 
@@ -17,49 +18,54 @@
   </a>
 </div>
 
----
+### 我的平台  
+[![个人主页](https://img.shields.io/badge/个人主页-ktzali.cn-blue)](http://www.ktzali.cn)
+[![技术博客](https://img.shields.io/badge/技术博客-94ali.top-green)](http://www.94ali.top)
+[![Gitee](https://img.shields.io/badge/Gitee-Ktz--ali-red)](https://gitee.com/Ktz-ali)
 
 ### 📊 技术足迹
 <table align="center">
-  <tr>
-    <td align="center">
-      <picture>
-        <img src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&username=Ktz-ali&show_icons=true&include_all_commits=true&theme=merko">
-      </picture>
-    </td>
-    <td align="center">
-      <picture>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&locale=cn&username=Ktz-ali&layout=compact&langs_count=12&theme=merko">
-      </picture>
-    </td>
-  </tr>
+    <tr>
+        <td align="center">
+          <picture>
+            <img src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&username=Ktz-ali&show_icons=true&include_all_commits=true">
+          </picture>
+        </td>
+        <td align="center">
+          <picture>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&locale=cn&username=Ktz-ali&layout=compact&langs_count=12">
+          </picture>
+        </td>
+    </tr>
 </table>
 
 ---
 
 ### 🚀 精选项目
 <table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Ktz-ali/AliGit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=Ktz-ali&repo=AliGit&show_owner=true&theme=radical">
-      </a>
-      <p><em>Git工作流增强工具 | 自动化版本控制解决方案</em></p>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Ktz-ali/AliSpace">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=Ktz-ali&repo=AliSpace&show_owner=true&theme=radical">
-      </a>
-      <p><em>云存储管理框架 | 跨平台资源调度系统</em></p>
-    </td>
-  </tr>
+    <tr>
+        <td align="center">
+          <picture>
+            <a href="https://github.com/Ktz-ali/AliGit">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=Ktz-ali&repo=AliGit&show_owner=true">
+            </a>
+          </picture>
+        </td>
+        <td align="center">
+          <picture>
+            <a href="https://github.com/Ktz-ali/AliSpace">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=Ktz-ali&repo=AliSpace&show_owner=true">
+            </a>
+          </picture>
+        </td>
+    </tr>
 </table>
 
 ---
 
 ### 🛠️ 技术栈
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,sh,py,php,html,css,javascript,nodejs,mysql,redis,git,github,linux,docker&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,shell,py,php,html,css,javascript,nodejs,mysql,redis,git,github,linux,docker&theme=dark&perline=7" />
 </p>
 
 ---
