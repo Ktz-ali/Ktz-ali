@@ -24,17 +24,17 @@
     <img src="https://img.shields.io/badge/Bilibili-技术分享-FF69B4?logo=bilibili&logoColor=white&style=for-the-badge">
   </a>
   <a href="https://pd.qq.com/s/ceqvpaxi2?b=5" target="_blank">
-    <img src="https://img.shields.io/badge/QQ频道-技术社区-12B7F5?logo=tencentqq&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/QQ频道-技术社区-12B7F5?logo=qq&logoColor=white&style=for-the-badge">
   </a>
 </div>
 
 ### 🛒 商业生态
 <div align="center">
   <a href="https://m.tb.cn/h.hLTEti9?tk=qYpN4TwJPn0" target="_blank">
-    <img src="https://img.shields.io/badge/Xianyu-技术店铺-FE5000?logo=alibabadotcom&logoColor=white">
+    <img src="https://img.shields.io/badge/Xianyu-技术店铺-FE5000?logo=alibaba&logoColor=white">
   </a>
   <a href="https://www.huzhan.com/ishop53338" target="_blank">
-    <img src="https://img.shields.io/badge/Huzhan-程序商店-FF0036?logo=shoppingcart&logoColor=white">
+    <img src="https://img.shields.io/badge/Huzhan-程序商店-FF0036?logo=huzhan&logoColor=white">
   </a>
 </div>
 
