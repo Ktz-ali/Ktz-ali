@@ -120,7 +120,6 @@
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white">
-    
     </td>
   </tr>
 </table>
