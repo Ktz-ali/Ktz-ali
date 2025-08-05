@@ -103,14 +103,22 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Neomorphism-8A2BE2?logo=blender&logoColor=white">
-      <img src="https://img.shields.io/badge/Glassmorphism-87CEEB?logo=figma&logoColor=white">
-      <img src="https://img.shields.io/badge/Tech_Style-00FF7F?logo=adobexd&logoColor=white">
+     <img src="https://img.shields.io/badge/拟态化-8A2BE2?style=flat">
+        <img src="https://img.shields.io/badge/毛玻璃-87CEEB?style=flat">
+        <img src="https://img.shields.io/badge/科技感-00FF7F?style=flat">
+        <img src="https://img.shields.io/badge/高端大气-87CEEB?style=flat">
+        <img src="https://img.shields.io/badge/现代化-00FF7F?style=flat">
     </td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/Shell_Script-4EAA25?logo=gnubash&logoColor=white">
-      <img src="https://img.shields.io/badge/Automation-FF9800?logo=jenkins&logoColor=white">
+      <img src="https://img.shields.io/badge/图形化操作界面设计-3C78D8?style=flat">
+        <img src="https://img.shields.io/badge/模块化函数封装-9C27B0?style=flat">
+        <img src="https://img.shields.io/badge/菜单驱动式交互-FF9800?style=flat">
+        <img src="https://img.shields.io/badge/区域化分类管理-3C78D8?style=flat">
+        <img src="https://img.shields.io/badge/模块化函数封装-9C27B0?style=flat">
+        <img src="https://img.shields.io/badge/自动化任务处理-FF9800?style=flat">
+        <img src="https://img.shields.io/badge/跨平台兼容适配-3C78D8?style=flat">
     </td>
   </tr>
 </table>
@@ -119,11 +127,11 @@
 
 ### 🏆 专业认证
 <div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Mobile_Security-Expert-4CAF50?logo=android" alt="移动安全工程师">
+   <a href="#">
+    <img src="https://img.shields.io/badge/移动安全工程师-高级-4CAF50?logo=android" alt="移动安全工程师">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Android_RE-Advanced-9C27B0?logo=androidstudio" alt="安卓逆向工程师">
+    <img src="https://img.shields.io/badge/安卓逆向工程师-认证-9C27B0?logo=androidstudio" alt="安卓逆向工程师">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/AWS_Architect-Associate-FF9900?logo=amazonaws" alt="AWS项目架构师">
