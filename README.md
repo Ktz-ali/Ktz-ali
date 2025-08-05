@@ -118,16 +118,13 @@
     <img src="https://img.shields.io/badge/移动安全工程师-高级-4CAF50?logo=android" alt="移动安全工程师">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/安卓逆向专家-认证-9C27B0?logo=androidstudio" alt="安卓逆向专家">
+    <img src="https://img.shields.io/badge/安卓逆向工程师-认证-9C27B0?logo=androidstudio" alt="安卓逆向工程师">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/AWS架构师-Associate-FF9900?logo=amazonaws" alt="AWS解决方案架构师">
+    <img src="https://img.shields.io/badge/AWS项目架构师-Associate-FF9900?logo=amazonaws" alt="AWS项目架构师">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/全栈工程师-TCA-3C78D8?logo=tencentqq" alt="Web全栈工程师">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/云安全专家-ACE-FF6A00?logo=alibabacloud" alt="阿里云安全专家">
+    <img src="https://img.shields.io/badge/Web全栈工程师-TCA-3C78D8?logo=tencentqq" alt="Web全栈工程师">
   </a>
 </p>
 
