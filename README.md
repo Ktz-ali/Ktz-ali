@@ -77,7 +77,7 @@
 <td>
   <img src="https://skillicons.dev/icons?i=java,bash,py,php,html,css,javascript,vue,nodejs,mysql,redis,git,github,linux,docker,nginx&theme=dark&perline=8" />
 </td>
-  <tr>
+</tr>
  <tr>
     <td><b>🌐 前后端技术栈</b></td>
   </tr>
