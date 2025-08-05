@@ -107,6 +107,7 @@
       <img src="https://img.shields.io/badge/科技感动态特效-00FA9A?style=flat">
       <img src="https://img.shields.io/badge/高端大气上档次-6A5ACD?style=flat">
       <img src="https://img.shields.io/badge/现代化卡片布局-32CD32?style=flat">
+      <img src="https://img.shields.io/badge/响应式自动适应-8A68E2?style=flat">
       <img src="https://img.shields.io/badge/图形化操作设计-4169E1?style=flat">
       <img src="https://img.shields.io/badge/模块化函数封装-9C27B0?style=flat">
       <img src="https://img.shields.io/badge/菜单驱动式交互-FF8C00?style=flat">
