@@ -7,12 +7,30 @@
 ---
 
 ### 🌐 我的其它平台
-[![个人主页](https://img.shields.io/badge/个人主页-ktzali.cn-2CA5E0?logo=homeassistant&logoColor=white)](http://www.ktzali.cn)
-[![技术博客](https://img.shields.io/badge/技术博客-94ali.top-FF5722?logo=blogger&logoColor=white)](http://www.94ali.top)
-[![Gitee](https://img.shields.io/badge/Gitee-Ktz--ali-C71D23?logo=gitee&logoColor=white)](https://gitee.com/Ktz-ali)
-[![哔哩哔哩](https://img.shields.io/badge/哔哩哔哩-消失的阿力-00A1D6?logo=bilibili&logoColor=white)](https://b23.tv/7QqLgsC)
-[![闲鱼店铺](https://img.shields.io/badge/闲鱼店铺-阿力-FF9900?logo=xing&logoColor=white)](https://m.tb.cn/h.hLTEti9?tk=qYpN4TwJPn0)
-[![互站店铺](https://img.shields.io/badge/互站店铺-遥辉程序-FF0036?logo=shopify&logoColor=white)](https://www.huzhan.com/ishop53338)
+<p align="center">
+  <a href="http://www.ktzali.cn" target="_blank">
+    <img src="https://img.shields.io/badge/个人主页-ktzali.cn-2CA5E0?logo=homeassistant&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="http://www.94ali.top" target="_blank">
+    <img src="https://img.shields.io/badge/技术博客-94ali.top-FF5722?logo=hexo&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://gitee.com/Ktz-ali" target="_blank">
+    <img src="https://img.shields.io/badge/Gitee-Ktz--ali-C71D23?logo=gitee&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://pd.qq.com/s/ceqvpaxi2?b=5" target="_blank">
+    <img src="https://img.shields.io/badge/QQ频道-社区互动-12B7F5?logo=tencentqq&logoColor=white&style=for-the-badge">
+  </a>
+  <br>
+  <a href="https://b23.tv/7QqLgsC" target="_blank">
+    <img src="https://img.shields.io/badge/哔哩哔哩-消失的阿力-FF69B4?logo=bilibili&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://m.tb.cn/h.hLTEti9?tk=qYpN4TwJPn0" target="_blank">
+    <img src="https://img.shields.io/badge/闲鱼店铺-阿力-FE5000?logo=alibabadotcom&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://www.huzhan.com/ishop53338" target="_blank">
+    <img src="https://img.shields.io/badge/互站店铺-遥辉程序-FF0036?logo=shoppingcart&logoColor=white&style=for-the-badge">
+  </a>
+</p>
 
 ---
 
@@ -51,6 +69,35 @@
 
 ---
 
+### 🛠️ 技术专长亮点
+<div align="center">
+  <table>
+    <tr>
+      <td><b>🏗️ 架构设计</b></td>
+      <td><b>🎨 UI/UX 设计</b></td>
+      <td><b>⚙️ 开发模式</b></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/微服务-5BAEEA?style=flat"> 
+        <img src="https://img.shields.io/badge/CI/CD-FF6F00?style=flat">
+        <img src="https://img.shields.io/badge/容器化-2496ED?style=flat">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/拟态化-8A2BE2?style=flat">
+        <img src="https://img.shields.io/badge/毛玻璃-87CEEB?style=flat">
+        <img src="https://img.shields.io/badge/科技感-00FF7F?style=flat">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/模块化-9C27B0?style=flat">
+        <img src="https://img.shields.io/badge/自动化-FF9800?style=flat">
+        <img src="https://img.shields.io/badge/跨平台-3C78D8?style=flat">
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 ### 🛠️ 设计风格专长
 
 + 前后端开发：
@@ -86,9 +133,11 @@
 
 ---
 
-### 📈 项目数据统计
+### 📈 中文数据看板
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?hide_border=true&locale=cn&username=Ktz-ali&theme=github_dark" alt="GitHub活动图表">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ktz-ali&locale=cn&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=项目统计" alt="项目统计">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ktz-ali&layout=compact&theme=github_dark&locale=cn&hide_border=true&langs_count=8&custom_title=常用语言" alt="语言统计">
 </div>
 
 ---
