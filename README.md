@@ -133,15 +133,6 @@
 
 ---
 
-### 📈 中文数据看板
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ktz-ali&locale=cn&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=项目统计" alt="项目统计">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ktz-ali&layout=compact&theme=github_dark&locale=cn&hide_border=true&langs_count=8&custom_title=常用语言" alt="语言统计">
-</div>
-
----
-
 ### 📞 联系我的方式
 <p align="center">
   <a href="https://qm.qq.com/q/DBDjD6OcIS">
