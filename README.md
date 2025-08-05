@@ -1,6 +1,6 @@
 ### 👋 你好，我是阿力 & 遥辉网络创始人<a href="https://github.com/Ktz-ali/"><img align="right" src="https://komarev.com/ghpvc/?username=Ktz-ali&label=Views&color=blue&style=flat"></a>
 
-<p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=1D9BF0&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+专注移动安全领域攻防;%F0%9F%A7%A9+热爱花里胡哨的程序开发设计;%F0%9F%9B%A0%EF%B8%8F+每样都懂一点点的全栈架构工程师" alt="专业标签"></p>  
+<p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=1D9BF0&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+专注移动安全领域攻防;%F0%9F%A7%A9+热爱花里胡哨的程序开发与风格设计;%F0%9F%9B%A0%EF%B8%8F+每样都懂一点点的全栈项目架构工程师" alt="专业标签"></p>  
 
 > **座右铭**: 知足上进，不负野心  
 
