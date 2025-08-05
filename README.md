@@ -129,7 +129,7 @@
     <img src="https://img.shields.io/badge/安卓逆向工程师-认证-9C27B0?logo=androidstudio" alt="安卓逆向">
   </a>
     <a href="#">
-    <img src="https://img.shields.io/badge/全栈项目工程师-AWS-3C78D8?logo=tencentqq" alt="全栈项目工程师">
+    <img src="https://img.shields.io/badge/全栈项目工程师-AWS-3C78D8?logo=googlecloud" alt="全栈项目工程师">
   </a>
 </div>
 
