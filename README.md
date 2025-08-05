@@ -138,7 +138,7 @@
 ### 📞 联系方式
 <p align="center">
   <a href="https://qm.qq.com/q/DBDjD6OcIS">
-    <img src="https://img.shields.io/badge/QQ-1728031575-12B7F5?logo=tencentqq" alt="QQ">
+    <img src="https://img.shields.io/badge/QQ-1728031575-12B7F5?logo=qq" alt="QQ">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/微信-Ali01021123-07C160?logo=wechat" alt="微信">
