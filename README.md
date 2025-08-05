@@ -93,11 +93,12 @@
       <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
       <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
       <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white">
     </td>
   </tr>
   <tr>
     <td><b>🎨 设计风格</b></td>
-    <td><b>🤖 脚本编写</b></td>
   </tr>
   <tr>
     <td>
@@ -113,10 +114,6 @@
         <img src="https://img.shields.io/badge/模块化函数封装-9C27B0?style=flat">
         <img src="https://img.shields.io/badge/自动化任务处理-FF9800?style=flat">
         <img src="https://img.shields.io/badge/跨平台兼容适配-3C78D8?style=flat">
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white">
     </td>
   </tr>
 </table>
