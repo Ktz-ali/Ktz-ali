@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Bilibili-技术分享-FF69B4?logo=bilibili&logoColor=white&style=for-the-badge">
   </a>
   <a href="https://pd.qq.com/s/ceqvpaxi2?b=5" target="_blank">
-    <img src="https://img.shields.io/badge/QQ-技术社区-12B7F5?logo=tencentqq&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/QQ频道-技术社区-12B7F5?logo=tencentqq&logoColor=white&style=for-the-badge">
   </a>
 </div>
 
@@ -123,16 +123,13 @@
 ### 🏆 专业认证
 <div align="center">
    <a href="#">
-    <img src="https://img.shields.io/badge/移动安全工程师-高级-4CAF50?logo=android" alt="移动安全工程师">
+    <img src="https://img.shields.io/badge/移动应用安全员-高级-4CAF50?logo=android" alt="移动安全">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/安卓逆向工程师-认证-9C27B0?logo=androidstudio" alt="安卓逆向工程师">
+    <img src="https://img.shields.io/badge/安卓逆向工程师-认证-9C27B0?logo=androidstudio" alt="安卓逆向">
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/AWS_Architect-Associate-FF9900?logo=amazonaws" alt="AWS项目架构师">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Full_Stack-TCA-3C78D8?logo=googlecloud" alt="Web全栈工程师">
+    <a href="#">
+    <img src="https://img.shields.io/badge/全栈项目工程师-AWS-3C78D8?logo=tencentqq" alt="全栈项目工程师">
   </a>
 </div>
 
