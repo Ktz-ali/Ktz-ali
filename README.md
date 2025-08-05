@@ -28,7 +28,7 @@
   </a>
 </div>
 
-### 💼 商业生态
+### 🛒 商业生态
 <div align="center">
   <a href="https://m.tb.cn/h.hLTEti9?tk=qYpN4TwJPn0" target="_blank">
     <img src="https://img.shields.io/badge/Xianyu-技术店铺-FE5000?logo=alibabadotcom&logoColor=white">
@@ -68,7 +68,7 @@
 
 ---
 
-### 🛠️ 技术矩阵
+### 💻 技术矩阵
 <table align="center">
  <tr>
     <td><b>🛠️ 常用语言工具</b></td>
