@@ -79,8 +79,7 @@
 ### 🛠️ 技术矩阵
 <table align="center">
   <tr>
-    <td><b>🌐 前端技术栈</b></td>
-    <td><b>⚙️ 后端技术栈</b></td>
+    <td><b>🌐 前后端技术栈</b></td>
   </tr>
   <tr>
     <td>
@@ -90,8 +89,6 @@
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white"> 
        <img src="https://img.shields.io/badge/Ajax-FF6F00?logo=flat">
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white">
-    </td>
-    <td>
       <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"> 
       <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
       <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
