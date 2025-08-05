@@ -31,10 +31,10 @@
 ### 🛒 商业生态
 <div align="center">
   <a href="https://m.tb.cn/h.hLTEti9?tk=qYpN4TwJPn0" target="_blank">
-    <img src="https://img.shields.io/badge/Xianyu-技术店铺-FE5000?logo=alibaba&logoColor=white">
+    <img src="https://img.shields.io/badge/Xianyu-技术店铺-FE5000?logo=alibabadotcom&logoColor=white">
   </a>
   <a href="https://www.huzhan.com/ishop53338" target="_blank">
-    <img src="https://img.shields.io/badge/Huzhan-程序商店-FF0036?logo=huzhan&logoColor=white">
+    <img src="https://img.shields.io/badge/Huzhan-程序商店-FF0036?logo=huzhandotcom&logoColor=white">
   </a>
 </div>
 
