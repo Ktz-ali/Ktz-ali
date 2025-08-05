@@ -135,7 +135,7 @@
 
 ---
 
-### 📞 联系我的方式
+### 📞 联系方式
 <p align="center">
   <a href="https://qm.qq.com/q/DBDjD6OcIS">
     <img src="https://img.shields.io/badge/QQ-1728031575-12B7F5?logo=tencentqq" alt="QQ">
