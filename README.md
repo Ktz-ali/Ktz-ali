@@ -68,15 +68,12 @@
 
 ---
 
-
----
-
-
 ### 🛠️ 技术矩阵
 <table align="center">
  <tr>
     <td><b>🛠️ 常用语言工具</b></td>
   </tr>
+<tr>
 <td>
   <img src="https://skillicons.dev/icons?i=java,bash,py,php,html,css,javascript,vue,nodejs,mysql,redis,git,github,linux,docker,nginx&theme=dark&perline=8" />
 </td>
@@ -84,6 +81,8 @@
  <tr>
     <td><b>🌐 前后端技术栈</b></td>
   </tr>
+<tr>
+<td>
       <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"> 
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
