@@ -104,12 +104,12 @@
   </tr>
   <tr>
     <td>
-     <img src="https://img.shields.io/badge/拟态化-8A2BE2?style=flat">
-        <img src="https://img.shields.io/badge/毛玻璃-87CEEB?style=flat">
-        <img src="https://img.shields.io/badge/科技感-00FF7F?style=flat">
-        <img src="https://img.shields.io/badge/高端大气-87CEEB?style=flat">
-        <img src="https://img.shields.io/badge/现代化-00FF7F?style=flat">
- <img src="https://img.shields.io/badge/图形化操作界面设计-3C78D8?style=flat">
+     <img src="https://img.shields.io/badge/拟态层次感设计-8A2BE2?style=flat">
+        <img src="https://img.shields.io/badge/毛玻璃透明设计-87CEEB?style=flat">
+        <img src="https://img.shields.io/badge/科技感动态特效-00FF7F?style=flat">
+        <img src="https://img.shields.io/badge/高端大气上档次-87CEEB?style=flat">
+        <img src="https://img.shields.io/badge/现代化卡片布局-00FF7F?style=flat">
+ <img src="https://img.shields.io/badge/图形化操作设计-3C78D8?style=flat">
         <img src="https://img.shields.io/badge/模块化函数封装-9C27B0?style=flat">
         <img src="https://img.shields.io/badge/菜单驱动式交互-FF9800?style=flat">
         <img src="https://img.shields.io/badge/区域化分类管理-3C78D8?style=flat">
