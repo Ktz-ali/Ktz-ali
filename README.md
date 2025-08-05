@@ -99,8 +99,8 @@
     </td>
   </tr>
   <tr>
-    <td><b>🎨 前后端设计风格</b></td>
-    <td><b>🤖 脚本设计风格</b></td>
+    <td><b>🎨 设计风格</b></td>
+    <td><b>🤖 脚本编写</b></td>
   </tr>
   <tr>
     <td>
@@ -109,17 +109,18 @@
         <img src="https://img.shields.io/badge/科技感-00FF7F?style=flat">
         <img src="https://img.shields.io/badge/高端大气-87CEEB?style=flat">
         <img src="https://img.shields.io/badge/现代化-00FF7F?style=flat">
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/Shell_Script-4EAA25?logo=gnubash&logoColor=white">
-      <img src="https://img.shields.io/badge/图形化操作界面设计-3C78D8?style=flat">
+ <img src="https://img.shields.io/badge/图形化操作界面设计-3C78D8?style=flat">
         <img src="https://img.shields.io/badge/模块化函数封装-9C27B0?style=flat">
         <img src="https://img.shields.io/badge/菜单驱动式交互-FF9800?style=flat">
         <img src="https://img.shields.io/badge/区域化分类管理-3C78D8?style=flat">
         <img src="https://img.shields.io/badge/模块化函数封装-9C27B0?style=flat">
         <img src="https://img.shields.io/badge/自动化任务处理-FF9800?style=flat">
         <img src="https://img.shields.io/badge/跨平台兼容适配-3C78D8?style=flat">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white">
+    
     </td>
   </tr>
 </table>
