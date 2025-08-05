@@ -88,6 +88,7 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white"> 
+       <img src="https://img.shields.io/badge/Ajax-FF6F00?logo=flat">
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white">
     </td>
     <td>
@@ -98,8 +99,8 @@
     </td>
   </tr>
   <tr>
-    <td><b>🎨 设计风格</b></td>
-    <td><b>🤖 脚本开发</b></td>
+    <td><b>🎨 前后端设计风格</b></td>
+    <td><b>🤖 脚本设计风格</b></td>
   </tr>
   <tr>
     <td>
