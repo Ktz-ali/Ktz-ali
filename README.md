@@ -6,31 +6,37 @@
 
 ---
 
-### 🌐 我的其它平台
-<p align="center">
+### 🌐 数字生态
+<div align="center">
   <a href="http://www.ktzali.cn" target="_blank">
-    <img src="https://img.shields.io/badge/个人主页-ktzali.cn-2CA5E0?logo=homeassistant&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Website-个人主页-2CA5E0?logo=homeassistant&logoColor=white&style=for-the-badge">
   </a>
   <a href="http://www.94ali.top" target="_blank">
-    <img src="https://img.shields.io/badge/技术博客-94ali.top-FF5722?logo=hexo&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Blog-技术博客-FF5722?logo=hexo&logoColor=white&style=for-the-badge">
   </a>
   <a href="https://gitee.com/Ktz-ali" target="_blank">
-    <img src="https://img.shields.io/badge/Gitee-Ktz--ali-C71D23?logo=gitee&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Gitee-开源仓库-C71D23?logo=gitee&logoColor=white&style=for-the-badge">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://b23.tv/7QqLgsC" target="_blank">
+    <img src="https://img.shields.io/badge/Bilibili-技术分享-FF69B4?logo=bilibili&logoColor=white&style=for-the-badge">
   </a>
   <a href="https://pd.qq.com/s/ceqvpaxi2?b=5" target="_blank">
-    <img src="https://img.shields.io/badge/QQ频道-社区互动-12B7F5?logo=tencentqq&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/QQ-技术社区-12B7F5?logo=tencentqq&logoColor=white&style=for-the-badge">
   </a>
-  <br>
-  <a href="https://b23.tv/7QqLgsC" target="_blank">
-    <img src="https://img.shields.io/badge/哔哩哔哩-消失的阿力-FF69B4?logo=bilibili&logoColor=white&style=for-the-badge">
-  </a>
+</div>
+
+## 💼 商业生态
+<div align="center">
   <a href="https://m.tb.cn/h.hLTEti9?tk=qYpN4TwJPn0" target="_blank">
-    <img src="https://img.shields.io/badge/闲鱼店铺-阿力-FE5000?logo=alibabadotcom&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Xianyu-技术店铺-FE5000?logo=alibabadotcom&logoColor=white">
   </a>
   <a href="https://www.huzhan.com/ishop53338" target="_blank">
-    <img src="https://img.shields.io/badge/互站店铺-遥辉程序-FF0036?logo=shoppingcart&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Huzhan-程序商店-FF0036?logo=shoppingcart&logoColor=white">
   </a>
-</p>
+</div>
 
 ---
 
@@ -69,64 +75,63 @@
 
 ---
 
-### 🛠️ 技术专长亮点
-<div align="center">
-  <table>
-    <tr>
-      <td><b>🏗️ 架构设计</b></td>
-      <td><b>🎨 UI/UX 设计</b></td>
-      <td><b>⚙️ 开发模式</b></td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/微服务-5BAEEA?style=flat"> 
-        <img src="https://img.shields.io/badge/CI/CD-FF6F00?style=flat">
-        <img src="https://img.shields.io/badge/容器化-2496ED?style=flat">
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/拟态化-8A2BE2?style=flat">
-        <img src="https://img.shields.io/badge/毛玻璃-87CEEB?style=flat">
-        <img src="https://img.shields.io/badge/科技感-00FF7F?style=flat">
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/模块化-9C27B0?style=flat">
-        <img src="https://img.shields.io/badge/自动化-FF9800?style=flat">
-        <img src="https://img.shields.io/badge/跨平台-3C78D8?style=flat">
-      </td>
-    </tr>
-  </table>
-</div>
 
-
-### 🛠️ 设计风格专长
-
-+ 前后端开发：
-- 能运用PHP/Java/Python/HTML5/CSS3/JavaScript/Vue/Ajax/MySQL/bootstrap等技术  
-- 设计风格：拟态化/毛玻璃/科技感/卡片布局/特效实现  
-- 后端架构：CI/CD流水线/Linux/Nginx/Shell脚本优化  
-
-+ 脚本开发：
-- 图形化操作界面设计 | 模块化函数封装 | 区域化分类管理  
-- 菜单驱动式交互 | 自动化任务处理 | 跨平台兼容方案  
-
+### 🛠️ 技术矩阵
+<table align="center">
+  <tr>
+    <td><b>🌐 前端技术栈</b></td>
+    <td><b>⚙️ 后端技术栈</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"> 
+      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white"> 
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"> 
+      <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+    </td>
+  </tr>
+  <tr>
+    <td><b>🎨 设计风格</b></td>
+    <td><b>🤖 脚本开发</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Neomorphism-8A2BE2?logo=blender&logoColor=white">
+      <img src="https://img.shields.io/badge/Glassmorphism-87CEEB?logo=figma&logoColor=white">
+      <img src="https://img.shields.io/badge/Tech_Style-00FF7F?logo=adobexd&logoColor=white">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Shell_Script-4EAA25?logo=gnubash&logoColor=white">
+      <img src="https://img.shields.io/badge/Automation-FF9800?logo=jenkins&logoColor=white">
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📜 荣誉证书认证
-<p align="center">
+### 🏆 专业认证
+<div align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/移动安全工程师-高级-4CAF50?logo=android" alt="移动安全工程师">
+    <img src="https://img.shields.io/badge/Mobile_Security-Expert-4CAF50?logo=android" alt="移动安全工程师">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/安卓逆向工程师-认证-9C27B0?logo=androidstudio" alt="安卓逆向工程师">
+    <img src="https://img.shields.io/badge/Android_RE-Advanced-9C27B0?logo=androidstudio" alt="安卓逆向工程师">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/AWS项目架构师-Associate-FF9900?logo=amazonaws" alt="AWS项目架构师">
+    <img src="https://img.shields.io/badge/AWS_Architect-Associate-FF9900?logo=amazonaws" alt="AWS项目架构师">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Web全栈工程师-TCA-3C78D8?logo=tencentqq" alt="Web全栈工程师">
+    <img src="https://img.shields.io/badge/Full_Stack-TCA-3C78D8?logo=googlecloud" alt="Web全栈工程师">
   </a>
-</p>
+</div>
 
 ---
 
