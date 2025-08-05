@@ -38,6 +38,19 @@
   </a>
 </div>
 
+### 🛒 商业生态
+<div align="center">
+  <!-- 淘宝技术店铺 -->
+  <a href="https://www.taobao.com" target="_blank">
+    <img src="https://img.shields.io/badge/Taobao-技术店铺-FF4400?logo=alibabadotcom&logoColor=white">
+  </a>
+  
+  <!-- GitHub代码商店 -->
+  <a href="https://github.com/marketplace" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-代码商店-181717?logo=github&logoColor=white">
+  </a>
+</div>
+
 ---
 
 ### 📊 技术足迹
