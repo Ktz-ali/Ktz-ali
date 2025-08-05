@@ -87,7 +87,7 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white"> 
-       <img src="https://img.shields.io/badge/Ajax-FF6F00?logo=flat">
+      <img src="https://img.shields.io/badge/Ajax-9C27B0?style=flat&logo=javascript">
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white">
       <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"> 
       <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
@@ -102,18 +102,17 @@
   </tr>
   <tr>
     <td>
-     <img src="https://img.shields.io/badge/拟态层次感设计-8A2BE2?style=flat">
-        <img src="https://img.shields.io/badge/毛玻璃透明设计-87CEEB?style=flat">
-        <img src="https://img.shields.io/badge/科技感动态特效-00FF7F?style=flat">
-        <img src="https://img.shields.io/badge/高端大气上档次-87CEEB?style=flat">
-        <img src="https://img.shields.io/badge/现代化卡片布局-00FF7F?style=flat">
- <img src="https://img.shields.io/badge/图形化操作设计-3C78D8?style=flat">
-        <img src="https://img.shields.io/badge/模块化函数封装-9C27B0?style=flat">
-        <img src="https://img.shields.io/badge/菜单驱动式交互-FF9800?style=flat">
-        <img src="https://img.shields.io/badge/区域化分类管理-3C78D8?style=flat">
-        <img src="https://img.shields.io/badge/模块化函数封装-9C27B0?style=flat">
-        <img src="https://img.shields.io/badge/自动化任务处理-FF9800?style=flat">
-        <img src="https://img.shields.io/badge/跨平台兼容适配-3C78D8?style=flat">
+      <img src="https://img.shields.io/badge/拟态层次感设计-8A2BE2?style=flat">
+      <img src="https://img.shields.io/badge/毛玻璃透明设计-00BFFF?style=flat">
+      <img src="https://img.shields.io/badge/科技感动态特效-00FA9A?style=flat">
+      <img src="https://img.shields.io/badge/高端大气上档次-6A5ACD?style=flat">
+      <img src="https://img.shields.io/badge/现代化卡片布局-32CD32?style=flat">
+      <img src="https://img.shields.io/badge/图形化操作设计-4169E1?style=flat">
+      <img src="https://img.shields.io/badge/模块化函数封装-9C27B0?style=flat">
+      <img src="https://img.shields.io/badge/菜单驱动式交互-FF8C00?style=flat">
+      <img src="https://img.shields.io/badge/区域化分类管理-1E90FF?style=flat">
+      <img src="https://img.shields.io/badge/自动化任务处理-FF6347?style=flat">
+      <img src="https://img.shields.io/badge/跨平台兼容适配-4682B4?style=flat">
     </td>
   </tr>
 </table>
