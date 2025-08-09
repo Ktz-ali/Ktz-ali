@@ -52,7 +52,7 @@
         <td align="center">
           <picture>
             <a href="https://github.com/Ktz-ali/GithubToolKit">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ktz-ali&repo=AliGit&theme=buefy">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ktz-ali&repo=GithubToolKit&theme=buefy">
             </a>
           </picture>
         </td>
